@@ -43,11 +43,11 @@ Ass        | nach Belieben 1 Punkt oder 11 Punkte
 
 Setzen Sie ein einfaches Black-Jack-Spiel um:
 
-# Geber und Spieler erhalten eine Kartenhand.
-# Dem Anwender (Spieler) werden die Kartenhände bekannt gegeben, und der Spieler wird nach seinem Spielzug gefragt – _"stay"_ (bei 4. weiter) oder _"hit"_ (bei 3. weiter).
-# Der Spieler erhält eine Karte. Sind seine Punkte < 22, geht es bei Punkt 2 weiter, sonst erhält er noch die Meldung _"bust"_, und das Spiel ist beendet.
-# Der Geber zieht nun gemäß den Regeln seine Karten und informiert nach jedem Zug den Anwender über die Kartenhände.
-# Sobald der Geber mehr als 16 Punkte auf der Hand hat, wird das Spielergebnis ausgewertet und der Anwender über das Ergebnis informiert.
+1. Geber und Spieler erhalten eine Kartenhand.
+2. Dem Anwender (Spieler) werden die Kartenhände bekannt gegeben, und der Spieler wird nach seinem Spielzug gefragt – _"stay"_ (bei 4. weiter) oder _"hit"_ (bei 3. weiter).
+3. Der Spieler erhält eine Karte. Sind seine Punkte < 22, geht es bei Punkt 2 weiter, sonst erhält er noch die Meldung _"bust"_, und das Spiel ist beendet.
+4. Der Geber zieht nun gemäß den Regeln seine Karten und informiert nach jedem Zug den Anwender über die Kartenhände.
+5. Sobald der Geber mehr als 16 Punkte auf der Hand hat, wird das Spielergebnis ausgewertet und der Anwender über das Ergebnis informiert.
 
 ## Erweiterte Regeln I
 
